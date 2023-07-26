@@ -1,0 +1,11 @@
+.idea
+.vs
+*.sln
+Saved/
+Binaries/
+Build/
+Config/
+Content/
+DerivedDataCache/
+Intermediate/
+Script/
